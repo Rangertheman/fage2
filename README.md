@@ -1,2 +1,2 @@
 # fage2
-Fantasy AGE compendium
+Fantasy AGE compendiums

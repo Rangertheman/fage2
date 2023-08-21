@@ -52,6 +52,13 @@
          "path":"./packs/talents.db",
          "type":"Item",
          "system":"age-system"
+      },
+      {
+         "label":"Arcana",
+         "name":"arcana",
+         "path":"./packs/arcana.db",
+         "type":"Item",
+         "system":"age-system"
       }
    ]
 }

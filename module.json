@@ -73,6 +73,20 @@
          "path":"./packs/stunts.db",
          "type":"Item",
          "system":"age-system"
+      },
+      {
+         "label":"Weapons",
+         "name":"weapons",
+         "path":"./packs/weapons.db",
+         "type":"Item",
+         "system":"age-system"
+      },
+      {
+         "label":"Classes",
+         "name":"classes",
+         "path":"./packs/classes.db",
+         "type":"Item",
+         "system":"age-system"
       }
    ]
 }

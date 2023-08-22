@@ -59,6 +59,20 @@
          "path":"./packs/arcana.db",
          "type":"Item",
          "system":"age-system"
+      },
+      {
+         "label":"Powers",
+         "name":"powers",
+         "path":"./packs/powers.db",
+         "type":"Item",
+         "system":"age-system"
+      },
+      {
+         "label":"Stunts",
+         "name":"stunts",
+         "path":"./packs/stunts.db",
+         "type":"Item",
+         "system":"age-system"
       }
    ]
 }

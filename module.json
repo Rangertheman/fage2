@@ -75,9 +75,9 @@
          "system":"age-system"
       },
       {
-         "label":"Weapons",
-         "name":"weapons",
-         "path":"./packs/weapons.db",
+         "label":"Equipment",
+         "name":"equipment",
+         "path":"./packs/equipment.db",
          "type":"Item",
          "system":"age-system"
       },

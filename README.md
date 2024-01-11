@@ -1,4 +1,4 @@
 # fage2
 Fantasy AGE compendiums
 
-For personal use only
+For my personal use only

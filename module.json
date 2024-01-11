@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.1.2",
+   "version":"0.1.3",
    "compatibility":{
       "minimum":"11",
       "verified":"11.315"
@@ -42,7 +42,7 @@
       {
          "label":"Specializations",
          "name":"specializations",
-         "path":"./packs/specializationsr.db",
+         "path":"./packs/specializations.db",
          "type":"Item",
          "system":"age-system"
       },
